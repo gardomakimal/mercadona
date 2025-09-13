@@ -1,0 +1,22 @@
+{
+  "enterYourWinningCode": "Enter Your Winning Code",
+  "ifYouHaveWon": "If you have won, you should have received a winning code.",
+  "yourCode": "Your Code",
+  "checkCode": "Check Code",
+  "scanningCode": "Scanning Code...",
+  "pleaseWaitWhileWeVerify": "Please wait while we verify your code.",
+  "congratulations": "Congratulations! 🎉",
+  "youHaveWonIphone": "You have won an iPhone 16",
+  "clickBelowToChooseColor": "Click below to choose a color.",
+  "chooseColor": "Choose Color",
+  "selectYourPreferredColor": "Select your preferred color for your iPhone 16.",
+  "continue": "Continue",
+  "verification": "Verification",
+  "verificationDescription": "Before we can provide you with the receipt to pick up your iPhone at a nearby store, you must pass the human verification test, by confirming your phone number by an sms. In our last giveaway, we found that over half of the prizes went to bots.",
+  "iAgreeToVerify": "I agree to verify",
+  "invalidCode": "❌ Invalid Code",
+  "theCodeEnteredIsIncorrect": "The code entered is incorrect. Please try again.",
+  "close": "Close",
+  "returnToHomepage": "Return to Homepage",
+  "oopsPageNotFound": "Oops! Page not found"
+}
